@@ -1,0 +1,14 @@
+Daten des Bahnhofs
+Name des Bahnhofs: 			Bocfeihum hbf
+Ort: 						Musterstra�e 123
+Anzahl Gleise: 				8
+Letzte Renovierung: 		2023
+Zugarten: 					ICE_IC_RB_RE
+
+Daten des Bahnhofs
+Name des Bahnhofs: 			Bocfeihum hbf
+Ort: 						Musterstra�e 123
+Anzahl Gleise: 				8
+Letzte Renovierung: 		2023
+Zugarten: 					ICE_IC_RB_RE
+
